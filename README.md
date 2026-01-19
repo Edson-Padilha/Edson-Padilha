@@ -1,3 +1,15 @@
+---
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <a href="https://github.com/Edson-Padilha">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Edson-Padilha&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Edson-Padilha&layout=compact&theme=dark"/>
+  </a>
+</div>
+
+---
 ### 📫 Contato
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/edsonpadilha/)
