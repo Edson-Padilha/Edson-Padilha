@@ -1,4 +1,12 @@
+### Olá, eu sou o Edson Padilha! 👋
 
+Sou um **Desenvolvedor RPA** apaixonado por transformar processos manuais e complexos em soluções automatizadas eficientes. Atualmente atuo na indústria têxtil em **Jaraguá do Sul - SC**, utilizando tecnologia para gerar valor e agilidade ao negócio.
+
+- 🔭 Atualmente estou trabalhando em: **Automação de processos com Python e Integrações Oracle.**
+- 🌱 Estou aprofundando meus conhecimentos em: **Arquitetura de Robôs e ZPL (Zebra).**
+- 💡 Minha filosofia: Tecnologia serve para liberar pessoas de tarefas repetitivas.
+
+---
 ### 🛠️ Tech Stack & Ferramentas
 
 **Linguagens & Banco de Dados**
