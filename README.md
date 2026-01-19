@@ -1,5 +1,4 @@
 ---
-
 ### 🛠️ Tech Stack & Ferramentas
 
 **Linguagens & Banco de Dados**
