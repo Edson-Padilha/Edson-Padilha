@@ -1,4 +1,7 @@
-## Hi there 👋
+### 📫 Contato
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](linkedin.com/in/edsonpadilha/)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:edsonp.bsi@gmail.com)
 
 <!--
 **Edson-Padilha/Edson-Padilha** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
