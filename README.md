@@ -13,6 +13,7 @@ Sou um **Desenvolvedor RPA** apaixonado por transformar processos manuais e comp
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
 ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
 ![SQL](https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=oracle&logoColor=white)
+![MySQL](https://img.shields.io/badge/mysql-4479A1?style=for-the-badge&logo=mysql&logoColor=white)
 ![ZPL](https://img.shields.io/badge/Zebra_ZPL-000000?style=for-the-badge&logo=zebra&logoColor=white)
 
 **Automação & Libs**
